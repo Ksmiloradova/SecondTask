@@ -49,7 +49,7 @@ int main(int argc, char *argv[]) {
         ifstream ifst(inPath);
         c.In(ifst);
     } else if (!strcmp(argv[1], "-n")) {
-        auto size = atoi(argv[2]);
+        int size = atoi(argv[2]);
         if ((size < 1) || (size > 10000)) {
             cout << "incorrect number of figures = "
                  << size
