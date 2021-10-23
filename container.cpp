@@ -2,6 +2,7 @@
 // container_Constr.cpp - содержит функции обработки контейнера
 //------------------------------------------------------------------------------
 
+#include <iostream>
 #include "transport.h"
 #include "container.h"
 
@@ -28,8 +29,13 @@ void Container::Clear() {
 // Ввод содержимого контейнера из указанного потока
 void Container::In(ifstream &ifst) {
     while (!ifst.eof()) {
-        if ((storage[len] = Transport::StaticIn(ifst)) != 0) {
+        if ((storage[len] = Transport::StaticIn(ifst)) != 0 && storage[len] != NULL && storage[len]->speed > 0) {
             len++;
+        } else if (storage[len] == NULL) {
+            std::cout << "Format error!\n";
+            break;
+        } else {
+            std::cout << "Incorrect transport!\n";
         }
     }
 }

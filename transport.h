@@ -23,7 +23,7 @@ public:
     // Ввод обобщенного траспорта
     static Transport *StaticIn(ifstream &ifdt);
     // Ввод обобщенного траспорта
-    void In(ifstream &ifdt);
+    virtual  void In(ifstream &ifdt) = 0;
     // Случайный ввод обобщенного траспорта
     static Transport *StaticInRnd();
     // Виртуальный метод ввода случайного траспорта

@@ -27,51 +27,54 @@ void errMessage2() {
 }
 
 //------------------------------------------------------------------------------
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[]) {
     clock_t start = clock();
-    if(argc != 5) {
+    if (argc != 4) {
         errMessage1();
         return 1;
     }
 
-    cout << "Start"<< endl;
+    cout << "Start" << endl;
     Container c;
 
     ////cout << "argv[1] = " << argv[1] << "\n";
-    if(!strcmp(argv[1], "-f")) {
-        ifstream ifst(argv[2]);
+    if (!strcmp(argv[1], "-f")) {
+        string inPath = "../tests/" + static_cast<string>(argv[2]);
+        ifstream fin(inPath);
+        if (!fin.is_open()) {
+            cout << "Error: Input file doesn't exist!";
+            return 0;
+        }
+        fin.close();
+        ifstream ifst(inPath);
         c.In(ifst);
-    }
-    else if(!strcmp(argv[1], "-n")) {
+    } else if (!strcmp(argv[1], "-n")) {
         auto size = atoi(argv[2]);
-        if((size < 1) || (size > 10000)) { 
-            cout << "incorrect numer of figures = "
+        if ((size < 1) || (size > 10000)) {
+            cout << "incorrect number of figures = "
                  << size
                  << ". Set 0 < number <= 10000\n";
             return 3;
         }
-        // системные часы в качестве инициализатора
+        // Системные часы в качестве инициализатора
         srand(static_cast<unsigned int>(time(0)));
         // Заполнение контейнера генератором случайных чисел
         c.InRnd(size);
-    }
-    else {
+    } else {
         errMessage2();
         return 2;
     }
 
     // Вывод содержимого контейнера в файл
-    ofstream ofst1(argv[3]);
+    string outPath = "../results/" + static_cast<string>(argv[3]);
+    ofstream ofst1(outPath);
     ofst1 << "Filled container:\n";
     c.BinaryInsertion();
     c.Out(ofst1);
 
-    // The 2nd part of task
-    ofstream ofst2(argv[4]);
-
-    cout << "Stop"<< endl;
+    cout << "Stop" << endl;
     clock_t end = clock();
-    // Вывод времени работы программы в "logFile.txt"
-    ofst2 << "Total time = " << (double) (end - start) / CLOCKS_PER_SEC << " seconds\n";
+    // Вывод времени работы программы в файл
+    ofst1 << "Total time = " << (double) (end - start) / CLOCKS_PER_SEC << " seconds\n";
     return 0;
 }

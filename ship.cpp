@@ -8,7 +8,7 @@
 // Ввод параметров корабля из потока
 void Ship::In(ifstream &ifst) {
     int type;
-    ifst >> type >> displacement;
+    ifst >> speed >> distance >> type >> displacement;
     switch (t % 3 + 1) {
         case 1:
             t = Ship::LINER;
@@ -19,6 +19,10 @@ void Ship::In(ifstream &ifst) {
         case 3:
             t = Ship::TANKER;
             break;
+    }
+    if (displacement < 20000 && displacement > 500000 ||
+            speed < 19 || speed > 67 || distance < 0) {
+        speed = -1;
     }
 }
 

@@ -7,7 +7,11 @@
 //------------------------------------------------------------------------------
 // Ввод параметров поезда из потока
 void Train::In(ifstream &ifst) {
-    ifst >> numberOfWagons;
+    ifst >> speed >> distance >> numberOfWagons;
+    if (numberOfWagons < 0 && numberOfWagons > 75 ||
+            speed < 80 || speed > 200 || distance < 0) {
+        speed = -1;
+    }
 }
 
 // Случайный ввод параметров поезда
