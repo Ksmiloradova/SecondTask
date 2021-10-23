@@ -1,0 +1,203 @@
+Filled container:
+Container contains 100 elements.
+1: It is Ship: Displacement = 95384 kg, Type = Tug
+   IdealTravelTime = 721.696 h. Speed = 23 km/h. Distance to destination = 16599 km
+2: It is Ship: Displacement = 169740 kg, Type = Tug
+   IdealTravelTime = 678.515 h. Speed = 22 km/h. Distance to destination = 14927.3 km
+3: It is Ship: Displacement = 263684 kg, Type = Tug
+   IdealTravelTime = 505.468 h. Speed = 31 km/h. Distance to destination = 15669.5 km
+4: It is Ship: Displacement = 226265 kg, Type = Liner
+   IdealTravelTime = 488.336 h. Speed = 33 km/h. Distance to destination = 16115.1 km
+5: It is Ship: Displacement = 161120 kg, Type = Tanker
+   IdealTravelTime = 443.683 h. Speed = 34 km/h. Distance to destination = 15085.2 km
+6: It is Ship: Displacement = 191486 kg, Type = Liner
+   IdealTravelTime = 423.82 h. Speed = 29 km/h. Distance to destination = 12290.8 km
+7: It is Ship: Displacement = 297658 kg, Type = Liner
+   IdealTravelTime = 402.67 h. Speed = 36 km/h. Distance to destination = 14496.1 km
+8: It is Ship: Displacement = 177975 kg, Type = Tug
+   IdealTravelTime = 384.313 h. Speed = 23 km/h. Distance to destination = 8839.2 km
+9: It is Ship: Displacement = 227920 kg, Type = Tug
+   IdealTravelTime = 368.971 h. Speed = 38 km/h. Distance to destination = 14020.9 km
+10: It is Ship: Displacement = 148135 kg, Type = Tanker
+   IdealTravelTime = 338.764 h. Speed = 56 km/h. Distance to destination = 18970.8 km
+11: It is Ship: Displacement = 60487 kg, Type = Tug
+   IdealTravelTime = 313.376 h. Speed = 56 km/h. Distance to destination = 17549.1 km
+12: It is Ship: Displacement = 222357 kg, Type = Tanker
+   IdealTravelTime = 290.543 h. Speed = 58 km/h. Distance to destination = 16851.5 km
+13: It is Ship: Displacement = 122846 kg, Type = Tug
+   IdealTravelTime = 289.335 h. Speed = 53 km/h. Distance to destination = 15334.8 km
+14: It is Ship: Displacement = 179025 kg, Type = Liner
+   IdealTravelTime = 285.151 h. Speed = 48 km/h. Distance to destination = 13687.2 km
+15: It is Ship: Displacement = 123910 kg, Type = Tanker
+   IdealTravelTime = 279.758 h. Speed = 57 km/h. Distance to destination = 15946.2 km
+16: It is Ship: Displacement = 154513 kg, Type = Liner
+   IdealTravelTime = 247.905 h. Speed = 46 km/h. Distance to destination = 11403.6 km
+17: It is Ship: Displacement = 69379 kg, Type = Tug
+   IdealTravelTime = 238.793 h. Speed = 45 km/h. Distance to destination = 10745.7 km
+18: It is Ship: Displacement = 259695 kg, Type = Tanker
+   IdealTravelTime = 228.463 h. Speed = 63 km/h. Distance to destination = 14393.1 km
+19: It is Ship: Displacement = 222561 kg, Type = Tug
+   IdealTravelTime = 222.383 h. Speed = 62 km/h. Distance to destination = 13787.8 km
+20: It is Ship: Displacement = 241727 kg, Type = Tug
+   IdealTravelTime = 189.633 h. Speed = 52 km/h. Distance to destination = 9860.94 km
+21: It is Ship: Displacement = 50777 kg, Type = Tug
+   IdealTravelTime = 188.428 h. Speed = 51 km/h. Distance to destination = 9609.82 km
+22: It is Train: numberOfWagons = 11
+   IdealTravelTime = 177.894 h. Speed = 89 km/h. Distance to destination = 15832.6 km
+23: It is Ship: Displacement = 180787 kg, Type = Tug
+   IdealTravelTime = 173.171 h. Speed = 33 km/h. Distance to destination = 5714.64 km
+24: It is Ship: Displacement = 256052 kg, Type = Liner
+   IdealTravelTime = 169.181 h. Speed = 25 km/h. Distance to destination = 4229.53 km
+25: It is Ship: Displacement = 95949 kg, Type = Tug
+   IdealTravelTime = 166.857 h. Speed = 62 km/h. Distance to destination = 10345.1 km
+26: It is Train: numberOfWagons = 13
+   IdealTravelTime = 165.896 h. Speed = 95 km/h. Distance to destination = 15760.1 km
+27: It is Ship: Displacement = 83425 kg, Type = Liner
+   IdealTravelTime = 162.832 h. Speed = 30 km/h. Distance to destination = 4884.95 km
+28: It is Ship: Displacement = 182881 kg, Type = Tug
+   IdealTravelTime = 160.81 h. Speed = 21 km/h. Distance to destination = 3377.01 km
+29: It is Ship: Displacement = 69336 kg, Type = Tug
+   IdealTravelTime = 158.174 h. Speed = 39 km/h. Distance to destination = 6168.77 km
+30: It is Ship: Displacement = 218292 kg, Type = Liner
+   IdealTravelTime = 151.506 h. Speed = 40 km/h. Distance to destination = 6060.22 km
+31: It is Ship: Displacement = 197447 kg, Type = Liner
+   IdealTravelTime = 145.519 h. Speed = 66 km/h. Distance to destination = 9604.26 km
+32: It is Train: numberOfWagons = 7
+   IdealTravelTime = 121.38 h. Speed = 139 km/h. Distance to destination = 16871.8 km
+33: It is Train: numberOfWagons = 5
+   IdealTravelTime = 116.26 h. Speed = 168 km/h. Distance to destination = 19531.7 km
+34: It is Train: numberOfWagons = 10
+   IdealTravelTime = 113.073 h. Speed = 109 km/h. Distance to destination = 12325 km
+35: It is Ship: Displacement = 89426 kg, Type = Liner
+   IdealTravelTime = 107.227 h. Speed = 67 km/h. Distance to destination = 7184.18 km
+36: It is Ship: Displacement = 185465 kg, Type = Liner
+   IdealTravelTime = 105.341 h. Speed = 58 km/h. Distance to destination = 6109.76 km
+37: It is Train: numberOfWagons = 8
+   IdealTravelTime = 102.646 h. Speed = 153 km/h. Distance to destination = 15704.9 km
+38: It is Train: numberOfWagons = 13
+   IdealTravelTime = 95.7144 h. Speed = 191 km/h. Distance to destination = 18281.5 km
+39: It is Train: numberOfWagons = 6
+   IdealTravelTime = 94.3546 h. Speed = 196 km/h. Distance to destination = 18493.5 km
+40: It is Train: numberOfWagons = 20
+   IdealTravelTime = 92.8984 h. Speed = 101 km/h. Distance to destination = 9382.74 km
+41: It is Train: numberOfWagons = 15
+   IdealTravelTime = 92.5662 h. Speed = 104 km/h. Distance to destination = 9626.89 km
+42: It is Train: numberOfWagons = 16
+   IdealTravelTime = 85.4281 h. Speed = 196 km/h. Distance to destination = 16743.9 km
+43: It is Train: numberOfWagons = 15
+   IdealTravelTime = 79.1279 h. Speed = 150 km/h. Distance to destination = 11869.2 km
+44: It is Ship: Displacement = 258140 kg, Type = Tug
+   IdealTravelTime = 74.7231 h. Speed = 52 km/h. Distance to destination = 3885.6 km
+45: It is Train: numberOfWagons = 9
+   IdealTravelTime = 61.2051 h. Speed = 134 km/h. Distance to destination = 8201.48 km
+46: It is Train: numberOfWagons = 11
+   IdealTravelTime = 45.0505 h. Speed = 93 km/h. Distance to destination = 4189.7 km
+47: It is Train: numberOfWagons = 3
+   IdealTravelTime = 40.3506 h. Speed = 102 km/h. Distance to destination = 4115.76 km
+48: It is Train: numberOfWagons = 4
+   IdealTravelTime = 37.9117 h. Speed = 139 km/h. Distance to destination = 5269.73 km
+49: It is Train: numberOfWagons = 18
+   IdealTravelTime = 36.6918 h. Speed = 83 km/h. Distance to destination = 3045.42 km
+50: It is Train: numberOfWagons = 17
+   IdealTravelTime = 33.217 h. Speed = 178 km/h. Distance to destination = 5912.62 km
+51: It is Airplane: flightRange = 20646, loadCapacity = 16522
+   IdealTravelTime = 33.0958 h. Speed = 514 km/h. Distance to destination = 17011.2 km
+52: It is Train: numberOfWagons = 18
+   IdealTravelTime = 30.7859 h. Speed = 187 km/h. Distance to destination = 5756.96 km
+53: It is Airplane: flightRange = 23046, loadCapacity = 61020
+   IdealTravelTime = 30.3207 h. Speed = 586 km/h. Distance to destination = 17767.9 km
+54: It is Train: numberOfWagons = 5
+   IdealTravelTime = 29.0873 h. Speed = 150 km/h. Distance to destination = 4363.09 km
+55: It is Train: numberOfWagons = 5
+   IdealTravelTime = 27.9237 h. Speed = 188 km/h. Distance to destination = 5249.66 km
+56: It is Airplane: flightRange = 24472, loadCapacity = 26940
+   IdealTravelTime = 27.3536 h. Speed = 564 km/h. Distance to destination = 15427.4 km
+57: It is Airplane: flightRange = 24673, loadCapacity = 54767
+   IdealTravelTime = 26.0269 h. Speed = 708 km/h. Distance to destination = 18427.1 km
+58: It is Airplane: flightRange = 22240, loadCapacity = 23899
+   IdealTravelTime = 25.6296 h. Speed = 738 km/h. Distance to destination = 18914.6 km
+59: It is Airplane: flightRange = 24285, loadCapacity = 19584
+   IdealTravelTime = 24.1008 h. Speed = 806 km/h. Distance to destination = 19425.3 km
+60: It is Airplane: flightRange = 20103, loadCapacity = 27356
+   IdealTravelTime = 23.3075 h. Speed = 787 km/h. Distance to destination = 18343 km
+61: It is Airplane: flightRange = 20264, loadCapacity = 36410
+   IdealTravelTime = 22.8559 h. Speed = 710 km/h. Distance to destination = 16227.7 km
+62: It is Airplane: flightRange = 22827, loadCapacity = 127829
+   IdealTravelTime = 21.9997 h. Speed = 772 km/h. Distance to destination = 16983.8 km
+63: It is Train: numberOfWagons = 20
+   IdealTravelTime = 21.6104 h. Speed = 186 km/h. Distance to destination = 4019.54 km
+64: It is Airplane: flightRange = 24479, loadCapacity = 113935
+   IdealTravelTime = 21.1656 h. Speed = 755 km/h. Distance to destination = 15980 km
+65: It is Airplane: flightRange = 24549, loadCapacity = 131248
+   IdealTravelTime = 21.0505 h. Speed = 881 km/h. Distance to destination = 18545.5 km
+66: It is Airplane: flightRange = 23551, loadCapacity = 73363
+   IdealTravelTime = 20.9587 h. Speed = 855 km/h. Distance to destination = 17919.7 km
+67: It is Airplane: flightRange = 21227, loadCapacity = 118288
+   IdealTravelTime = 20.8185 h. Speed = 733 km/h. Distance to destination = 15260 km
+68: It is Airplane: flightRange = 21421, loadCapacity = 147857
+   IdealTravelTime = 20.7821 h. Speed = 768 km/h. Distance to destination = 15960.7 km
+69: It is Airplane: flightRange = 20055, loadCapacity = 96519
+   IdealTravelTime = 19.8347 h. Speed = 790 km/h. Distance to destination = 15669.4 km
+70: It is Train: numberOfWagons = 13
+   IdealTravelTime = 19.1665 h. Speed = 156 km/h. Distance to destination = 2989.97 km
+71: It is Airplane: flightRange = 21903, loadCapacity = 42549
+   IdealTravelTime = 19.0932 h. Speed = 889 km/h. Distance to destination = 16973.8 km
+72: It is Airplane: flightRange = 22581, loadCapacity = 23141
+   IdealTravelTime = 14.5187 h. Speed = 715 km/h. Distance to destination = 10380.9 km
+73: It is Airplane: flightRange = 21758, loadCapacity = 47263
+   IdealTravelTime = 14.347 h. Speed = 819 km/h. Distance to destination = 11750.2 km
+74: It is Airplane: flightRange = 22061, loadCapacity = 56603
+   IdealTravelTime = 13.5261 h. Speed = 513 km/h. Distance to destination = 6938.88 km
+75: It is Airplane: flightRange = 22177, loadCapacity = 137006
+   IdealTravelTime = 13.5075 h. Speed = 893 km/h. Distance to destination = 12062.2 km
+76: It is Airplane: flightRange = 22867, loadCapacity = 149499
+   IdealTravelTime = 13.4754 h. Speed = 538 km/h. Distance to destination = 7249.75 km
+77: It is Airplane: flightRange = 20250, loadCapacity = 115703
+   IdealTravelTime = 13.4567 h. Speed = 730 km/h. Distance to destination = 9823.37 km
+78: It is Airplane: flightRange = 24244, loadCapacity = 135503
+   IdealTravelTime = 13.3054 h. Speed = 840 km/h. Distance to destination = 11176.5 km
+79: It is Train: numberOfWagons = 15
+   IdealTravelTime = 12.9564 h. Speed = 148 km/h. Distance to destination = 1917.55 km
+80: It is Airplane: flightRange = 21551, loadCapacity = 44297
+   IdealTravelTime = 12.6345 h. Speed = 605 km/h. Distance to destination = 7643.87 km
+81: It is Airplane: flightRange = 24090, loadCapacity = 89184
+   IdealTravelTime = 11.9931 h. Speed = 714 km/h. Distance to destination = 8563.05 km
+82: It is Airplane: flightRange = 23970, loadCapacity = 27042
+   IdealTravelTime = 11.9183 h. Speed = 864 km/h. Distance to destination = 10297.4 km
+83: It is Airplane: flightRange = 23559, loadCapacity = 139915
+   IdealTravelTime = 11.8157 h. Speed = 800 km/h. Distance to destination = 9452.53 km
+84: It is Airplane: flightRange = 23458, loadCapacity = 30244
+   IdealTravelTime = 11.6237 h. Speed = 791 km/h. Distance to destination = 9194.33 km
+85: It is Airplane: flightRange = 23907, loadCapacity = 51976
+   IdealTravelTime = 11.366 h. Speed = 864 km/h. Distance to destination = 9820.23 km
+86: It is Airplane: flightRange = 24762, loadCapacity = 50251
+   IdealTravelTime = 11.1668 h. Speed = 774 km/h. Distance to destination = 8643.07 km
+87: It is Airplane: flightRange = 20525, loadCapacity = 20702
+   IdealTravelTime = 9.89272 h. Speed = 588 km/h. Distance to destination = 5816.92 km
+88: It is Airplane: flightRange = 20920, loadCapacity = 26134
+   IdealTravelTime = 9.63262 h. Speed = 787 km/h. Distance to destination = 7580.87 km
+89: It is Airplane: flightRange = 21062, loadCapacity = 73720
+   IdealTravelTime = 9.14623 h. Speed = 859 km/h. Distance to destination = 7856.61 km
+90: It is Airplane: flightRange = 23702, loadCapacity = 108222
+   IdealTravelTime = 8.2111 h. Speed = 835 km/h. Distance to destination = 6856.27 km
+91: It is Airplane: flightRange = 23593, loadCapacity = 72359
+   IdealTravelTime = 7.64081 h. Speed = 592 km/h. Distance to destination = 4523.36 km
+92: It is Airplane: flightRange = 24161, loadCapacity = 53062
+   IdealTravelTime = 7.53517 h. Speed = 805 km/h. Distance to destination = 6065.81 km
+93: It is Airplane: flightRange = 21593, loadCapacity = 72710
+   IdealTravelTime = 6.84294 h. Speed = 879 km/h. Distance to destination = 6014.94 km
+94: It is Airplane: flightRange = 20472, loadCapacity = 122755
+   IdealTravelTime = 5.42104 h. Speed = 675 km/h. Distance to destination = 3659.2 km
+95: It is Airplane: flightRange = 20510, loadCapacity = 87099
+   IdealTravelTime = 4.85637 h. Speed = 785 km/h. Distance to destination = 3812.25 km
+96: It is Airplane: flightRange = 20767, loadCapacity = 125698
+   IdealTravelTime = 3.29829 h. Speed = 573 km/h. Distance to destination = 1889.92 km
+97: It is Airplane: flightRange = 24014, loadCapacity = 116194
+   IdealTravelTime = 3.15926 h. Speed = 745 km/h. Distance to destination = 2353.65 km
+98: It is Airplane: flightRange = 21175, loadCapacity = 53647
+   IdealTravelTime = 3.03219 h. Speed = 889 km/h. Distance to destination = 2695.62 km
+99: It is Airplane: flightRange = 24149, loadCapacity = 126471
+   IdealTravelTime = 1.76092 h. Speed = 707 km/h. Distance to destination = 1244.97 km
+100: It is Airplane: flightRange = 21199, loadCapacity = 59689
+   IdealTravelTime = 1.51382 h. Speed = 757 km/h. Distance to destination = 1145.96 km
+Total time = 0.001416 seconds

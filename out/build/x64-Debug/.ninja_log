@@ -1,0 +1,8 @@
+# ninja log v5
+11	2037	6566768519888211	CMakeFiles/task.dir/transport.cpp.obj	d2219480389d42c2
+0	2076	6566768520408269	CMakeFiles/task.dir/train.cpp.obj	8b1764b60fc10e85
+27	2077	6566768520278227	CMakeFiles/task.dir/ship.cpp.obj	d9eb2c6f82f1d9ec
+20	2085	6566768520268213	CMakeFiles/task.dir/container.cpp.obj	26b17d60acf53e9a
+6	2087	6566768520388252	CMakeFiles/task.dir/airplane.cpp.obj	d02ed93acd57a09b
+16	2140	6566768521038224	CMakeFiles/task.dir/main.cpp.obj	1013dcd088ad2c1c
+2141	3953	6566768537132874	../bin/task.exe	43b257958c67b16c
