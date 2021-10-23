@@ -1,0 +1,23 @@
+Filled container:
+Container contains 10 elements.
+1: It is Ship: Displacement = 78283 kg, Type = Tanker
+   IdealTravelTime = 625.16 h. Speed = 24 km/h. Distance to destination = 15003.8 km
+2: It is Ship: Displacement = 158732 kg, Type = Tug
+   IdealTravelTime = 394.412 h. Speed = 44 km/h. Distance to destination = 17354.1 km
+3: It is Ship: Displacement = 186957 kg, Type = Liner
+   IdealTravelTime = 156.052 h. Speed = 32 km/h. Distance to destination = 4993.67 km
+4: It is Ship: Displacement = 231480 kg, Type = Tug
+   IdealTravelTime = 95.3406 h. Speed = 36 km/h. Distance to destination = 3432.26 km
+5: It is Ship: Displacement = 259570 kg, Type = Tanker
+   IdealTravelTime = 80.9517 h. Speed = 47 km/h. Distance to destination = 3804.73 km
+6: It is Train: numberOfWagons = 13
+   IdealTravelTime = 64.247 h. Speed = 199 km/h. Distance to destination = 12785.1 km
+7: It is Airplane: flightRange = 23835, loadCapacity = 97307
+   IdealTravelTime = 19.8212 h. Speed = 780 km/h. Distance to destination = 15460.5 km
+8: It is Train: numberOfWagons = 6
+   IdealTravelTime = 13.1578 h. Speed = 170 km/h. Distance to destination = 2236.83 km
+9: It is Train: numberOfWagons = 6
+   IdealTravelTime = 9.62533 h. Speed = 137 km/h. Distance to destination = 1318.67 km
+10: It is Airplane: flightRange = 24939, loadCapacity = 118024
+   IdealTravelTime = 8.17201 h. Speed = 862 km/h. Distance to destination = 7044.27 km
+Total time = 0.000847 seconds

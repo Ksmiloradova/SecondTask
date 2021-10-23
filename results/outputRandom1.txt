@@ -1,0 +1,5 @@
+Filled container:
+Container contains 1 elements.
+1: It is Ship: Displacement = 112836 kg, Type = Tug
+   IdealTravelTime = 50.6936 h. Speed = 58 km/h. Distance to destination = 2940.23 km
+Total time = 0.000871 seconds
